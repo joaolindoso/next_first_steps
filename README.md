@@ -1,3 +1,46 @@
+<h1>Primeiros passos...</h1>
+
+## Objetivos
+
+App desenvolvido em Next.JS baseado em vídeo-aula para aprendizado.
+Agradecimentos ao canal YouTube "Sujeito Programador".
+
+---
+
+## Descrição
+
+Trata-se de um App de teste, para saber mais sobre, como:
+
+- Criando projetos
+- Estrutura de arquivos e pastas do Next.js
+- Arquivos globais (layout, css, etc.)
+- Roteamento e navegação de páginas
+-- Páginas 'not found'
+- Metadados (SEO)
+- Server X Client Components
+- Rotas dinâmicas
+- Actions
+- Revalidate, Cache
+- Cache Fetch
+-- Exemplo
+- Middleware
+- Route Handlers
+
+---
+
+## Componentes externos utilizados
+
+xxx
+
+- phosphor-icons/react
+- embla-carousel-react
+- lucide-react
+- tailwind css
+
+---
+
+## Informações gerais sobre Next.js
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
