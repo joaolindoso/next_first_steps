@@ -9,7 +9,7 @@ Agradecimentos ao canal YouTube "Sujeito Programador".
 
 ## Descrição
 
-Trata-se de um App de teste, para saber mais sobre, como:
+Trata-se de um App de teste, para saber mais sobre Next.JS:
 
 - Criando projetos
 - Estrutura de arquivos e pastas do Next.js
@@ -28,13 +28,8 @@ Trata-se de um App de teste, para saber mais sobre, como:
 
 ---
 
-## Componentes externos utilizados
+## Componentes externos utilizados 
 
-xxx
-
-- phosphor-icons/react
-- embla-carousel-react
-- lucide-react
 - tailwind css
 
 ---
